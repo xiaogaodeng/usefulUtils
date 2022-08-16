@@ -72,7 +72,7 @@
 
 
     </dependencies>
-
+    <!--先install再使用 jar-->
     <build>
         <plugins>
             <plugin>
